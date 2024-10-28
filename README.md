@@ -29,8 +29,9 @@ We believe in the power of collaboration and how different perspectives can crea
 * typing
 
 ## Installation
-   ```bash
-   pip install matplotlib
+``` bash
+pip install matplotlib
+```
 
 ## Implementation Details
 **Sorting Algorithm**
