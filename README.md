@@ -31,7 +31,6 @@ We believe in the power of collaboration and how different perspectives can crea
 ## Installation
     ```bash
     pip install matplotlib
-    ```
 
 ## Implementation Details
 **Sorting Algorithm**
