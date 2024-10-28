@@ -26,7 +26,6 @@ We believe in the power of collaboration and how different perspectives can crea
 ## Requirements
 * Python 3.12 or later
 * matplotlib 3.9 or later
-* typing
 
 ## Installation
 ``` bash
