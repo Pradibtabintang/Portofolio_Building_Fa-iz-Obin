@@ -5,8 +5,8 @@ A Python implementation and performance analysis tool for common sorting algorit
 ## Authors
 This project was collaboratively developed by:
 
-* Muhammad Fa'iz Ismail (@Faizism - ``` bash https://github.com/Faizism/ ```)
-* Pradibta Bintang Maulana (@Pradibtabintang - ``` bash https://github.com/Pradibtabintan/ ```)
+* Muhammad Fa'iz Ismail (@Faizism - ``` https://github.com/Faizism/ ```)
+* Pradibta Bintang Maulana (@Pradibtabintang - ``` https://github.com/Pradibtabintang/ ```)
 
 We believe in the power of collaboration and how different perspectives can create better software. Feel free to reach out to either of us with questions or suggestions!
 
